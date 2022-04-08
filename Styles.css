@@ -112,6 +112,8 @@ hr {
     color: var(--primary-color);
 }
 
+/**section**/
+
 .section { 
     padding: 2rem;
 } 
@@ -123,4 +125,16 @@ hr {
 .ow {
     color: var(--off-white);
 }
-    
+
+/**footer**/
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-allign: center;
+    color: white;
+}
+
+.footer .link {
+    color: white;
+}
