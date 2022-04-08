@@ -7,6 +7,7 @@ body {
 .root {
     --primary-color: #7c3aed;
     --dark-grey: #64748b;
+    --off-white: #f3f4f6;
     }
 
 hr { 
@@ -111,3 +112,15 @@ hr {
     color: var(--primary-color);
 }
 
+.section { 
+    padding: 2rem;
+} 
+
+.section h1 {
+    text-allign: center;
+}
+
+.ow {
+    color: var(--off-white);
+}
+    
